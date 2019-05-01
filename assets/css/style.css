@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+}
+
+.cabecera{
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+.cab-sub{
+    background-color: black; 
+    color: brown;
+}
